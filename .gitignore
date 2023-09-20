@@ -1,0 +1,17 @@
+# virtualenv stuff
+/env
+/venv
+.venv
+.env
+
+# git stuff
+.git
+
+# workspace stuff
+.idea
+**/.DS_Store
+/.vscode
+
+.ipynb_checkpoints
+
+WISDM_ar_v1.1_raw.txt
